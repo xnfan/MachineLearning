@@ -48,6 +48,7 @@ decision tree(tree, GBDT, random forest)
 A * B, A * B * C, A * A  
 bucket  
 combiine one-hot  
+decision tree: 根据该样本在树中经历了多少个路径
 
 
 ## Common Tools
